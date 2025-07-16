@@ -121,4 +121,9 @@ DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
 
 CORS_ORIGIN_WHITELIST = ['http://localhost:3000']
 
-ALLOWED_HOSTS = ['localhost', '127.0.0.1', 'sprint15.webhop.me']
+ALLOWED_HOSTS = [
+    '89.169.166.145',
+    'localhost',
+    '127.0.0.1',
+    'sprint15.webhop.me',
+]
